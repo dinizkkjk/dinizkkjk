@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+<img src="https://cdn.discordapp.com/attachments/819171425357004850/830090582567288882/dinizkkj.png" >
+
 - 🔭 Estou Trabalhando em um Projeto
 - 🌱 Estou Aprendendo Lua e Html 
 - 💬 Pergunte Qualquer Coisa para mim
-
-<img src="https://cdn.discordapp.com/attachments/819171425357004850/830090582567288882/dinizkkj.png" >
 
 Minhas Linguagens De Programaçao Favoritas:
 
