@@ -18,5 +18,6 @@ Coisas que gosto de passar meu tempo:
 <img src="" width="700vw" height="350vh">
 -->
 
-Discord Para Contato 
+Discord Para Contato :
+
 dinizkkj#0001
