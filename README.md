@@ -19,5 +19,4 @@ Coisas que gosto de passar meu tempo:
 -->
 
 Discord Para Contato :
-
 dinizkkj#0001
