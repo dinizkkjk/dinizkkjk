@@ -4,7 +4,7 @@
 - 🌱 Estou Aprendendo Lua e Html 
 - 💬 Pergunte Qualquer Coisa para mim
 - 
--->Minhas Linguagens De programaçao Favoritas:
+Minhas Linguagens De programaçao Favoritas:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="25vw" height="25vh">
 
