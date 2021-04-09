@@ -9,7 +9,7 @@
 
 Stuffs that i use to spend my time:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="40vw" height="25vh">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/210px-Visual_Studio_2017_logo_and_wordmark.svg.png" width="25vw" height="25vh"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="40vw" height="25vh">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" width="25vw" height="25vh"> 
 
 <!--
 <img src="" width="700vw" height="350vh">
