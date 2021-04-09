@@ -4,7 +4,7 @@
 - 🌱 Estou Aprendendo Lua e Html 
 - 💬 Pergunte Qualquer Coisa para mim
 
-<img src="https://ibb.co/h9BJh5B"
+<img src="https://ibb.co/h9BJh5B" >
 
 Minhas Linguagens De Programaçao Favoritas:
 
